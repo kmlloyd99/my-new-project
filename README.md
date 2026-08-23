@@ -21,7 +21,6 @@ Which problems does your idea solve? How common or frequent is this problem? Wha
 This is how you make a list, if you need one:
 * Individuals who face a myriad of images, ambient noises, and more will be able to use an a web application that helps. 
 * Individuals who desire peace and quiet will have a web application they can utilize. 
-* etc.
 
 
 ## How is it used?
@@ -30,10 +29,7 @@ Individuals will be able to select a voice-led short story and videos featuring 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+![image of a story time](/Web_Test.jpg)
 
 This is how you create code examples:
 ```
@@ -53,17 +49,10 @@ def main():
 main()
 ```
 
-
 ## Data sources and AI methods
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
 The platform generally collects the number of user sign-ups and possibly the amount of UGC. It's automatically collected. 
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
 
@@ -78,7 +67,7 @@ It can be enhanced with user generated content.
 
 * list here the sources of inspiration
 * The course and people. 
-* 
+* Image via Canva.
 * do not use code, images, data etc. from others without permission
 * when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
   <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
