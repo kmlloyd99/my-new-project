@@ -11,7 +11,7 @@ Final project for the Building AI course
 
 ## Summary
 
-A web app that helps people relax through short stories and art activities. 
+A web app that helps people relax through short stories and art activities like re-use.  
 
 
 ## Background
