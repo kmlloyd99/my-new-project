@@ -25,7 +25,7 @@ This is how you make a list, if you need one:
 
 ## How is it used?
 
-Individuals will be able to select a voice-led short story and videos featuring art activities within a continuos scrolling grid. The grid will feature a mix of short stories and art activities. Users will be able to select between the two categories (short stories) and (art activities). Users will be prompted with an option to select or view more short stories and art activities. It also reminds people to keep usage of the platform to a minimum set of time. 
+Individuals will be able to select a voice-led short story and videos featuring art activities within a continuos scrolling grid. The grid will feature a mix of short stories and art activities. Users will be able to select between the two categories (short stories) and (art activities). Users will be prompted with an option to select or view more short stories and art activities. Users can create a profile or a sign as a guest. It also reminds people to keep usage of the platform to a minimum set of time. 
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
